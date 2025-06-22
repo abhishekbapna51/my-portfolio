@@ -11,6 +11,14 @@ const projectData = [
         demo: "https://abhishekbapna51.github.io/CabBooking/",
     },
     {
+        title: "📋 TaskX Pro – Task Management App",
+        highlight: "Full-stack task manager with login, task stats, and reminders",
+        tech: ["React", "Node.js", "MongoDB", "Tailwind CSS"],
+        image: "/taskx-pro.svg",
+        code: "https://github.com/abhishekbapna51/taskx-frontend",
+        demo: "https://taskx-pro.netlify.app/",
+    },
+    {
         title: "🏥 Hospital Management System",
         highlight: "Patient portal, billing system",
         tech: ["HTML", "CSS", "JavaScript", "React"],
