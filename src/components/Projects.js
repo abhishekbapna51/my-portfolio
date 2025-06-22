@@ -11,10 +11,18 @@ const projectData = [
         demo: "https://abhishekbapna51.github.io/CabBooking/",
     },
     {
+        title: "💳 Credit Card Anomaly Detection",
+        highlight: "Streamlit ML dashboard for fraud detection",
+        tech: ["Python", "Scikit-learn", "Streamlit"],
+        image: "/creditcard.png",
+        code: "https://github.com/abhishekbapna51/creditcard-anomaly-detection",
+        demo: "https://creditcard-anomaly-detection-vebfssgshcanmwt9sefdw7.streamlit.app/",
+    },
+    {
         title: "📋 TaskX Pro – Task Management App",
         highlight: "Full-stack task manager with login, task stats, and reminders",
         tech: ["React", "Node.js", "MongoDB", "Tailwind CSS"],
-        image: "/taskx-pro.svg",
+        image: "/taskx-pro.jpg",
         code: "https://github.com/abhishekbapna51/taskx-frontend",
         demo: "https://taskx-pro.netlify.app/",
     },
@@ -49,14 +57,6 @@ const projectData = [
         image: "/conservation-quiz.png",
         code: "https://github.com/abhishekbapna51/Conservation_Economics_weekwise_quizzes",
         demo: "https://abhishekbapna51.github.io/Conservation_Economics_weekwise_quizzes/",
-    },
-    {
-        title: "💳 Credit Card Anomaly Detection",
-        highlight: "Streamlit ML dashboard for fraud detection",
-        tech: ["Python", "Scikit-learn", "Streamlit"],
-        image: "/creditcard.png",
-        code: "https://github.com/abhishekbapna51/creditcard-anomaly-detection",
-        demo: "https://creditcard-anomaly-detection-vebfssgshcanmwt9sefdw7.streamlit.app/",
     },
 ];
 
