@@ -42,6 +42,14 @@ const projectData = [
         code: "https://github.com/abhishekbapna51/Conservation_Economics_weekwise_quizzes",
         demo: "https://abhishekbapna51.github.io/Conservation_Economics_weekwise_quizzes/",
     },
+    {
+        title: "💳 Credit Card Anomaly Detection",
+        highlight: "Streamlit ML dashboard for fraud detection",
+        tech: ["Python", "Scikit-learn", "Streamlit"],
+        image: "/creditcard.png",
+        code: "https://github.com/abhishekbapna51/creditcard-anomaly-detection",
+        demo: "https://creditcard-anomaly-detection-vebfssgshcanmwt9sefdw7.streamlit.app/",
+    },
 ];
 
 const cardVariants = {
