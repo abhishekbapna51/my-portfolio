@@ -2,14 +2,14 @@ import React from "react";
 import { motion } from "framer-motion";
 
 const projectData = [
-    {
-        title: "🚕 Cab Sharing Website",
-        highlight: "Ride booking, user profiles",
-        tech: ["HTML", "CSS", "JavaScript"],
-        image: "/Cab-booking_project.png",
-        code: "https://github.com/abhishekbapna51/Cab_booking",
-        demo: "https://abhishekbapna51.github.io/CabBooking/",
-    },
+    // {
+    //     title: "🚕 Cab Sharing Website",
+    //     highlight: "Ride booking, user profiles",
+    //     tech: ["HTML", "CSS", "JavaScript"],
+    //     image: "/Cab-booking_project.png",
+    //     code: "https://github.com/abhishekbapna51/Cab_booking",
+    //     demo: "https://abhishekbapna51.github.io/CabBooking/",
+    // },
     {
         title: "💳 Credit Card Anomaly Detection",
         highlight: "Streamlit ML dashboard for fraud detection",
